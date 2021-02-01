@@ -5,7 +5,7 @@ description="Unreasonably fast polynomials."
 authors = ["Will Brickner <wgbrickner@gmail.com>"]
 edition = "2018"
 repository="https://github.com/wbrickner/horny"
-keywords=["polynomial", "horner", "horners rule"]
+keywords=["polynomial", "horner"]
 license="MIT"
 
 [dependencies]
